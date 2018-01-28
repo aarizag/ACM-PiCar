@@ -1,0 +1,5 @@
+#!/bin/bash
+# A script to start the Python Files on Startup
+
+cd /home/pi/Desktop/
+./CheckBluetoothFiles.py
